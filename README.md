@@ -28,10 +28,6 @@
 <sup><sub><strong> - python, shell/bash. changes mac address</strong></sub></sup>
 
 
-<a href="./nmap/README.md">nmap</a>
-<sup><sub><strong> - shell. scripts for nmap local network</strong></sub></sup>
-
-
 <a href="./speech/README.md">speech</a>
 <sup><sub><strong> - python. recognises speech, add to file</strong></sub></sup>
 
