@@ -32,11 +32,11 @@
 <sup><sub><strong> - shell. scripts for nmap local network</strong></sub></sup>
 
 
-<a href="./speech/README.md">speech</a><strong>
+<a href="./speech/README.md">speech</a>
 <sup><sub><strong> - python. recognises speech, add to file</strong></sub></sup>
 
 
-<a href="./reverse-shell/README.md">reverse shell</a><strong>
+<a href="./reverse-shell/README.md">reverse shell</a>
 <sup><sub><strong> - python. take control of shell</strong></sub></sup>
 
 </big>
