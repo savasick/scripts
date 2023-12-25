@@ -32,7 +32,7 @@
 <sup><sub><strong>  python, bash. - changes mac address</strong></sub></sup>
 
 
-<a href="./reverse-shell">nmap</a>
+<a href="./nmap">nmap</a>
 <sup><sub><strong>  bash. - network scripts</strong></sub></sup>
 
 
