@@ -3,36 +3,44 @@
 ### written in:
 <ul>
 <li>python</li>
-<li>shell/bash</li>
+<li>bash</li>
 <li>C</li>
 </ul>
 
 #
 ### content:
 
-<big>
+<h3>
 
-<a href="./bind-shell/README.md">bind shell</a>
+<a href="./bind-shell">bind shell</a>
+<sup><sub><strong>  python. - take control of shell</strong></sub></sup>
+
+
+<a href="./camera-movement">camera-movement</a>
+<sup><sub><strong>  python. - record video from webcam</strong></sub></sup>
+
+
+<a href="./camera-movement">check-ssl</a>
+<sup><sub><strong>  bash. - check domain ssl</strong></sub></sup>
+
+
+<a href="./ip-traceroute">ip-traceroute</a>
+<sup><sub><strong>  C. - route IP network</strong></sub></sup>
+
+
+<a href="./mac-address">mac-address</a>
+<sup><sub><strong>  python, bash. - changes mac address</strong></sub></sup>
+
+
+<a href="./reverse-shell">nmap</a>
+<sup><sub><strong>  bash. - network scripts</strong></sub></sup>
+
+
+<a href="./speech">speech</a>
+<sup><sub><strong>  python. - recognises speech, add to file</strong></sub></sup>
+
+
+<a href="./reverse-shell">reverse shell</a>
 <sup><sub><strong> - python. take control of shell</strong></sub></sup>
 
-
-<a href="./camera-movement/README.md">camera-movement</a>
-<sup><sub><strong> - python. record video from webcam</strong></sub></sup>
-
-
-<a href="./ip-traceroute//README.md">ip-traceroute</a>
-<sup><sub><strong> - C. route IP network</strong></sub></sup>
-
-
-<a href="./MAC-address/README.md">mac-spoof</a>
-<sup><sub><strong> - python, shell/bash. changes mac address</strong></sub></sup>
-
-
-<a href="./speech/README.md">speech</a>
-<sup><sub><strong> - python. recognises speech, add to file</strong></sub></sup>
-
-
-<a href="./reverse-shell/README.md">reverse shell</a>
-<sup><sub><strong> - python. take control of shell</strong></sub></sup>
-
-</big>
+</h3>
