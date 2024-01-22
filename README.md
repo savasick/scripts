@@ -35,14 +35,23 @@
 <a href="./nmap">nmap</a>
 <sup><sub><strong>  bash. - network scripts</strong></sub></sup>
 
-<a href="./nmap">py-decorators</a>
+
+<a href="./py-decorators">py-decorators</a>
 <sup><sub><strong>  python. - decorators</strong></sub></sup>
+
+
+<a href="./reverse-shell">reverse shell</a>
+<sup><sub><strong> - python. take control of shell</strong></sub></sup>
+
+
+<a href="./scan">scan</a>
+<sup><sub><strong> - bash. scan hosts</strong></sub></sup>
+
 
 <a href="./speech">speech</a>
 <sup><sub><strong>  python. - recognises speech, add to file</strong></sub></sup>
 
 
-<a href="./reverse-shell">reverse shell</a>
-<sup><sub><strong> - python. take control of shell</strong></sub></sup>
+
 
 </h3>
