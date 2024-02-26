@@ -37,3 +37,34 @@ sudo bash show.sh
 ```
 
 #
+
+### show all IP at ur entire-network - show_more.sh
+
+
+takes a while\
+usage
+```bash
+sudo bash show_more.sh
+```
+
+#
+
+### show all ur open ports - myports.sh
+
+
+usage
+```bash
+sudo bash myports.sh
+```
+
+#
+
+### show ur private IP - private.sh
+
+
+usage
+```bash
+sudo bash private.sh
+```
+
+#
