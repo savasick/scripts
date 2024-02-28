@@ -20,3 +20,18 @@ pip3 install -r requirements.txt
 ```bash
 sudo python3 arpDetector.py
 ```
+
+# ARP spoof
+
+start
+```bash
+sudo python3 arpSpoof.py <victim_ip> <router_ip>
+# like so
+sudo python3 arpSpoof.py 192.168.1.100 192.168.1.1
+```
+
+
+to know about netusers
+```bash
+sudo netdiscover
+```

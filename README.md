@@ -12,8 +12,8 @@
 
 <h3>
 
-<a href="./arp-detec­tor">arp-detector</a>
-<sup><sub><strong>  python. - detect arpspoof</strong></sub></sup>
+<a href="./arp-vul">arp-vul</a>
+<sup><sub><strong>  python. - arp spoof/detect</strong></sub></sup>
 
 
 <a href="./bind-shell">bind shell</a>
