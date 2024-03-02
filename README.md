@@ -56,10 +56,16 @@
 <sup><sub><strong> - bash. scan hosts</strong></sub></sup>
 
 
+<a href="./scapy">scapy</a>
+<sup><sub><strong>  python. - scapy scans scripts</strong></sub></sup>
+
+
+<a href="./shellServer-bindShell">shellServer-bindShell</a>
+<sup><sub><strong>  python. take control of shell</strong></sub></sup>
+
+
 <a href="./speech">speech</a>
 <sup><sub><strong>  python. - recognises speech, add to file</strong></sub></sup>
-
-
 
 
 </h3>
