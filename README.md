@@ -60,7 +60,7 @@
 <sup><sub><strong>  python. - scapy scans scripts</strong></sub></sup>
 
 
-<a href="./shellServer-bindShell">shellServer-bindShell</a>
+<a href="./shellServer-reverseShell">shellServer-reverseShell</a>
 <sup><sub><strong>  python. take control of shell</strong></sub></sup>
 
 
