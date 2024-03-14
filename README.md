@@ -1,4 +1,4 @@
-# Helpful & Offensive & Rude scripts
+# scripts
 
 ### written in:
 <ul>
