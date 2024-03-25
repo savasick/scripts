@@ -64,6 +64,10 @@
 <sup><sub><strong>  python. take control of shell</strong></sub></sup>
 
 
+<a href="./speech">sniff</a>
+<sup><sub><strong>  python. - traffic sniffer</strong></sub></sup>
+
+
 <a href="./speech">speech</a>
 <sup><sub><strong>  python. - recognises speech, add to file</strong></sub></sup>
 
