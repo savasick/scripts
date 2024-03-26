@@ -2,10 +2,15 @@
 
 ### at Linux
 
-#### show mac with bash/shell
+#### show mac with bash
 ```bash
 bash show.sh
 ```
+at macos
+```bash
+bash mac_show.sh
+```
+
 
 #### or
 

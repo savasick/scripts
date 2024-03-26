@@ -68,3 +68,10 @@ sudo bash private.sh
 ```
 
 #
+
+### show ip, mac, os name - devices.sh
+
+usage
+```bash
+sudo bash devices.sh
+```
