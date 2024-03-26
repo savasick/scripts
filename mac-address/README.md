@@ -61,11 +61,5 @@ python3 main.py
 
 
 ```bash
-sudo ifconfig en0 ether aa:bb:cc:dd:ee:ff
-```
-
-or
-
-```bash
-sudo ifconfig en0 lladdr 00:01:02:03:04:05
+bash mac_random.sh
 ```
