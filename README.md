@@ -32,6 +32,10 @@
 <sup><sub><strong>  C. - route IP network</strong></sub></sup>
 
 
+<a href="./keylog">keylog</a>
+<sup><sub><strong>  python. - logs keyboard</strong></sub></sup>
+
+
 <a href="./mac-address">mac-address</a>
 <sup><sub><strong>  python, bash. - changes mac address</strong></sub></sup>
 
