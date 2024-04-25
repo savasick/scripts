@@ -68,7 +68,7 @@
 <sup><sub><strong>  python. take control of shell</strong></sub></sup>
 
 
-<a href="./speech">sniff</a>
+<a href="./sniff">sniff</a>
 <sup><sub><strong>  python. - traffic sniffer</strong></sub></sup>
 
 
