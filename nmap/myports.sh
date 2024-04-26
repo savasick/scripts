@@ -3,4 +3,4 @@
 #IP=$(ifconfig $adapter | grep 'inet ' | awk '{print $2}')
 ip=$(ifconfig | grep 'inet ' | awk '{print $2}' | tail -n 1)
 echo "Scanning open ports on $IP"
-nmap -sT -O -p- $IP | grep "open"
+nmap -p- $ip | grep "open"
