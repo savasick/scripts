@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -z
+# sudo /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -z
 
 generated_mac=$(openssl rand -hex 6 | sed 's/\(..\)/\1:/g; s/.$//')
 

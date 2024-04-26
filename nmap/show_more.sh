@@ -1,5 +1,6 @@
 #!/bin/bash
-ip=$(hostname -I | awk '{print $1}')
+#ip=$(hostname -I | awk '{print $1}')
+ip=$(ifconfig | grep 'inet ' | awk '{print $2}' | tail -n 1)
 sub="$(echo "$ip" | cut -d. -f1-2).*."
 # net=".*.*"
 net="0/24"

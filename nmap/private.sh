@@ -1,4 +1,5 @@
 #!/bin/bash
-adapter=$(find /sys/class/net ! -type d | xargs --max-args=1 realpath | awk -F\/ '/pci/{print $NF}')
-IP=$(ifconfig $adapter | grep 'inet ' | awk '{print $2}')
+#adapter=$(find /sys/class/net ! -type d | xargs --max-args=1 realpath | awk -F\/ '/pci/{print $NF}')
+#IP=$(ifconfig $adapter | grep 'inet ' | awk '{print $2}')
+IP=$(ifconfig | grep 'inet ' | awk '{print $2}' | tail -n 1)
 echo $IP
