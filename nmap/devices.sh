@@ -8,4 +8,6 @@ sub="${ip%${ip##*.}}"
 # net="*"
 net="0/24"
 subnet="$sub$net"
-nmap -sn $subnet | awk '/Nmap scan report for/{printf $5;}/MAC Address:/{print " "substr($0, index($0,$3)) }'
+#nmap -sn $subnet | awk '/Nmap scan report for/{printf $5;}/MAC Address:/{print " "substr($0, index($0,$3)) }'
+nmap -sn $subnet | awk '/Nmap scan report for/{printf $5" ";}/MAC Address:/{print substr($0, index($0,$3)) }'
+#nmap -sn $subnet | awk '/Nmap scan report for/{printf "%-15s",$5;}/MAC Address:/{print substr($0, index($0,$3)) }'
